@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-* 🌍  I'm based in Miami
+* 🌍  I'm based in South Florida
 * ✉️  You can contact me at [me@alfredourda.com](mailto:me@alfredourda.com)
 * 🧠  I'm learning something new every day
 * ⚡  I secretly take too many online courses
